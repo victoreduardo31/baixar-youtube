@@ -1,0 +1,6 @@
+pyinstaller --onefile --noconsole --hidden-import=yt_dlp --hidden-import=tkinter --hidden-import=logging --hidden-import=os --hidden-import=time --name "Baixar Youtube" --icon="J:\BaixarYoutube\youtube.png" J:\BaixarYoutube\baixaryoutube.py
+
+Criar a pasta C:\InfoTech
+
+colocar o ffmpeg na pasta
+
