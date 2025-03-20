@@ -3,4 +3,4 @@ pyinstaller --onefile --noconsole --hidden-import=yt_dlp --hidden-import=tkinter
 Criar a pasta C:\InfoTech
 
 colocar o ffmpeg na pasta
-
+ teste
